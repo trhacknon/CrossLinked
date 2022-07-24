@@ -1,10 +1,10 @@
 # CrossLinked
 <p align="center">
     <img src="https://img.shields.io/badge/License-GPL%20v3.0-green?style=plastic"/>&nbsp;
-    <a href="https://www.twitter.com/m8sec">
+    <a href="https://www.twitter.com/">
         <img src="https://img.shields.io/badge/Twitter-@m8sec-blue?style=plastic&logo=twitter"/>
     </a>&nbsp;
-    <a href="https://github.com/sponsors/m8sec">
+    <a href="https://github.com/sponsors/trhacknon">
         <img src="https://img.shields.io/badge/Sponsor-GitHub-red?style=plastic&logo=github"/>
     </a>&nbsp;
  </p>
@@ -16,7 +16,7 @@ domain accounts, and more.
 
 ## Setup
 ```bash
-git clone https://github.com/m8sec/crosslinked
+git clone https://github.com/trhacknon/crosslinked
 cd crosslinked
 pip3 install -r requirements.txt
 ```
