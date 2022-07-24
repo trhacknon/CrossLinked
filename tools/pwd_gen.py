@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author: m8r0wn
+# Author: trhacknon
 # License: GPLv3
 
 # Output file location/name.txt
