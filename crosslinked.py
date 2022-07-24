@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author: m8r0wn
+# Author: trhacknon
 # License: GPLv3
 
 import logging
@@ -14,7 +14,7 @@ from taser.proto.http import extract_webdomain, web_request, get_statuscode
 from taser.utils import file_exists, delimiter2dict, delimiter2list, TaserTimeout
 
 def banner():
-    author = '@m8r0wn'
+    author = 'trhacknon'
     version = 'v0.1.0'
     printx.colored('''
      _____                    _             _            _ 
